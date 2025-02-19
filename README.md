@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [www.arndt-marcel.de](www.arndt-marcel.de)
 
-- 💬 Ask me about **Angular**
-
 - 📫 How to reach me **info@arndt-marcel.de**
 <h1 align="center">Project Join</h1>
 
