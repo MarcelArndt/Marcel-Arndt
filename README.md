@@ -12,8 +12,42 @@
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **info@arndt-marcel.de**
+<h1 align="center">Project Join</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelArndt&layout=donut-vertical&bg_color=90,f0a915,fe7800&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffe58b)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+<div align="center">
+  <img height="350" src="https://arndt-marcel.de/join.gif"  />
+</div>
+
+###
+
+<p align="center">If I hadn't noted it down, I would have forgotten to write about it! That’s exactly why "Join" exists - a task management and assignment tool. As a team, we built a powerful and essential Kanban system that makes organizing tasks easier and coding even more fun.<br><br>My main responsibility was the core of the project: the board. Implementing drag-and-drop, managing server data, and ensuring a smooth user experience came with challenges and some frustrating moments.<br><br>After about eight weeks, we finally made it! Special thanks to Björn, Rico, and Philip for their support during tough phases.<br><br>Oh, and one task is still unfinished. Curious? Check it out on my demo page:<br>https://arndt-marcel.de/join</p>
+
+###
+
+<h1 align="center">Phantom Forest:</h1>
+
+###
+
+<div align="center">
+  <img height="350" src="https://arndt-marcel.de/game.gif"  />
+</div>
+
+###
+
+<p align="center">What little boy passionate about IT hasn’t dreamed of creating his own game? I certainly did—maybe a bit too ambitiously. That’s what made Phantom Forest my longest and most challenging project yet.<br><br>At first, I had only basic web development knowledge. But this project taught me far more than expected. I had to master object-oriented programming and tackle complex concepts like state machines. Like Rome, my game wasn’t built in a day, and I watched my "city" of game development skills grow step by step.<br><br>It might sound funny, but I have a deep emotional connection to this project. Through all its ups and downs, I learned perseverance and creative problem-solving. Phantom Forest may not be the perfect game I once imagined, but it’s only the beginning. Next time, I’m going even bigger!<br><br>Up for a challenge? Try beating my high score:<br>www.arndt-marcel.de/phantom-forest/</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MarcelArndt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcelArndt&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelArndt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelArndt&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
