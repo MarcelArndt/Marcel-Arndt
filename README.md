@@ -15,6 +15,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelArndt&layout=donut-vertical&bg_color=90,f0a915,fe7800&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffe58b)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcelArndt&bg_color=90,f0a915,fe7800&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffe58b" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelArndt&layout=compact&langs_count=8&card_width=320&bg_color=90,f0a915,fe7800&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffe58b" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/profil-marcel-arndt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/profil-marcel-arndt/" height="30" width="40" /></a>
