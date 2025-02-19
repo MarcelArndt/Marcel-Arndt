@@ -4,15 +4,14 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marcel-arndt&label=Profile%20views&color=0e75b6&style=flat" alt="marcel-arndt" /> </p>
 
-- 🔭 I’m currently working on **Reprogramming an older Projekt called Join from vanilla JavaScript to Angular**
+🔭 I’m currently working on **Reprogramming an older Projekt called Join from vanilla JavaScript to Angular**
 
-- 🌱 I’m currently learning **Django**
+🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [www.arndt-marcel.de](www.arndt-marcel.de)
+👨‍💻 All of my projects are available at [www.arndt-marcel.de](www.arndt-marcel.de)
 
-- 📫 How to reach me **info@arndt-marcel.de**  
+📫 How to reach me **info@arndt-marcel.de**  
 </div>
-
 
 ###
 
@@ -26,12 +25,18 @@
 
 ###
 
+
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MarcelArndt&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
+<hr>
+
+<h1>My Favorite Projects</h1>
+  
+<hr>
 
 <h1 align="center">Project Join</h1>
 
