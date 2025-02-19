@@ -14,9 +14,7 @@
 
 ###
 
-<div align="center">
-  <img height="350" src="https://arndt-marcel.de/join.gif"  />
-</div>
+
 
 ###
 
@@ -28,7 +26,9 @@
 
 ###
 
-
+<div align="center">
+  <img height="350" src="https://arndt-marcel.de/game.gif"  />
+</div>
 
 ###
 
