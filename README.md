@@ -1,7 +1,8 @@
+<div align="center">
 <h1 align="center">Hi 👋, I'm Marcel</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcel-arndt&label=Profile%20views&color=0e75b6&style=flat" alt="marcel-arndt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marcel-arndt&label=Profile%20views&color=0e75b6&style=flat" alt="marcel-arndt" /> </p>
 
 - 🔭 I’m currently working on **Reprogramming an older Projekt called Join from vanilla JavaScript to Angular**
 
@@ -9,7 +10,29 @@
 
 - 👨‍💻 All of my projects are available at [www.arndt-marcel.de](www.arndt-marcel.de)
 
-- 📫 How to reach me **info@arndt-marcel.de**
+- 📫 How to reach me **info@arndt-marcel.de**  
+</div>
+
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelArndt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MarcelArndt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelArndt&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MarcelArndt&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+
 <h1 align="center">Project Join</h1>
 
 ###
@@ -35,24 +58,6 @@
 ###
 
 <p align="center">What little boy passionate about IT hasn’t dreamed of creating his own game? I certainly did—maybe a bit too ambitiously. That’s what made Phantom Forest my longest and most challenging project yet.<br><br>At first, I had only basic web development knowledge. But this project taught me far more than expected. I had to master object-oriented programming and tackle complex concepts like state machines. Like Rome, my game wasn’t built in a day, and I watched my "city" of game development skills grow step by step.<br><br>It might sound funny, but I have a deep emotional connection to this project. Through all its ups and downs, I learned perseverance and creative problem-solving. Phantom Forest may not be the perfect game I once imagined, but it’s only the beginning. Next time, I’m going even bigger!<br><br>Up for a challenge? Try beating my high score:<br>www.arndt-marcel.de/phantom-forest/</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelArndt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=MarcelArndt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelArndt&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=MarcelArndt&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
