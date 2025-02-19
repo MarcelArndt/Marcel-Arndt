@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **info@arndt-marcel.de**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelArndt&layout=donut-vertical&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelArndt&layout=donut-vertical&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
