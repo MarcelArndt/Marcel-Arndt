@@ -20,7 +20,11 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcelArndt&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MarcelArndt&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcelArndt&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake.svg" />
+</picture>
 </div>
 
 ###
@@ -37,27 +41,15 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/profil-marcel-arndt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/profil-marcel-arndt/" height="30" width="40" /></a>
 </p>
-###
 
 
-# 💻 Tech Stack:
+<h1 align="center">💻 Tech Stack:</h1>
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MareclArndt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MareclArndt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MareclArndt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/MarcelArndt/Marcel-Arndt/output/github-snake.svg" />
-</picture>
-
-
-###
 
 <hr>
 
